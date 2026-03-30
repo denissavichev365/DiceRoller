@@ -30,7 +30,7 @@
 - View Binding
 - Material Design 3
 
-## Структура проекта
+## Структура 
 
 ```
 app/src/main/java/com/zavetg/diceroller/
