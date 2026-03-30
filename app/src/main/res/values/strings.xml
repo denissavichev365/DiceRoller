@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="roll_title">Бросок кубика</string>
+    <string name="history_title">История бросков</string>
+    <string name="select_dice_type">Тип кубика</string>
+    <string name="dice_count">Количество кубиков</string>
+    <string name="roll_button">БРОСИТЬ</string>
+    <string name="results_title">Результат</string>
+    <string name="clear_history">0чистить</string>
+    <string name="empty_history">История бросков пуста</string>
+    <string name="roll_tab">Бросок</string>
+    <string name="history_tab">История</string>
+    <string name="sum_label">Сумма: %d</string>
+    <string name="dice_type_label">%dd%d</string>
+    <string name="confirm_clear_title">Очистить историю</string>
+    <string name="confirm_clear_message">Вы уверены, что хотите удалить всю историю бросков?</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="settings_restored">Настройки восстановлены: %dd%d</string>
+</resources>

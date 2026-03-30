@@ -1,0 +1,23 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+.knownPackages
+.temp/
+
+# Android SDK (не коммитим — устанавливается отдельно)
+/emulator/
+/platform-tools/
+/platforms/
+/system-images/
+/build-tools/
+/licenses/
+
+# Скрипты разработки
+generate_report.py
