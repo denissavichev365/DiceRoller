@@ -6,7 +6,7 @@
     <string name="dice_count">Количество кубиков</string>
     <string name="roll_button">БРОСИТЬ</string>
     <string name="results_title">Результат</string>
-    <string name="clear_history">0чистить</string>
+    <string name="clear_history">Очистить</string>
     <string name="empty_history">История бросков пуста</string>
     <string name="roll_tab">Бросок</string>
     <string name="history_tab">История</string>
