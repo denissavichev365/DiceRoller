@@ -39,7 +39,7 @@ class DiceRollAdapter(
             binding.tvDiceType.text = binding.root.context.getString(
                 R.string.dice_type_label, roll.diceCount, roll.diceType
             )
-            binding.tvRollResults.text = roll.results.replace(",", ", ")
+            binding.tvRollResults.text = roll.results.replace(".", ". ")
             binding.tvRollDate.text = dateFormat.format(Date(roll.createdAt))
             binding.tvRollSum.text = roll.sum.toString()
         }
